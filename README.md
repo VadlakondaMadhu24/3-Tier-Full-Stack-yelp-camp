@@ -1,4 +1,4 @@
-# Yelp Camp Web Application
+#  DEVSECOPS PROJECT -Yelp Camp Web Application
 
 This web application allows users to add, view, access, and rate campgrounds by location. It is based on "The Web Developer Bootcamp" by Colt Steele, but includes several modifications and bug fixes. The application leverages a variety of technologies and packages, such as:
 
@@ -28,8 +28,3 @@ After configuring the .env file, you can start the project by running:
 ```sh
 docker compose up
 ```
-
-## Application Screenshots
-![](./images/home.jpg)
-![](./images/campgrounds.jpg)
-![](./images/register.jpg)
