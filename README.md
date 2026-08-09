@@ -11,6 +11,7 @@ Cloudinary: Used for cloud-based image storage.
 Helmet: Enhances application security.
 ...
 To get this application up and running, you'll need to set up accounts with Cloudinary, Mapbox, and MongoDB Atlas. Once these are set up, create a .env file in the same folder as app.js. This file should contain the following configurations:
+
 CLOUDINARY_CLOUD_NAME=[Your Cloudinary Cloud Name]
 CLOUDINARY_KEY=[Your Cloudinary Key]
 CLOUDINARY_SECRET=[Your Cloudinary Secret]
